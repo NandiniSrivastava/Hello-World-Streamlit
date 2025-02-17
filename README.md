@@ -1,4 +1,4 @@
-# 🚀 DockerLab1
+# Hello World 
 
 ## 🌟 Overview
 DockerLab1 is a simple yet powerful project designed to demonstrate containerization using Docker. It includes a Python script (`hello.py`) that prints "hello" to the console when executed inside a Docker container. This setup allows for easy deployment and environment consistency across different systems.
@@ -90,6 +90,4 @@ CMD ["python", "hello.py"]
 
 ---
 
-## 🙌 Thank You!
-Thank you for using DockerLab1! We hope this guide was helpful. If you have any questions or suggestions, feel free to reach out. Happy coding! 🚀
 
